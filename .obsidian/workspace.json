@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "07009d0e7e2bea32",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4e80db38971a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb60ed8c6535eb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Film Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Film Type"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bced9c10123ed3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9daba8261ac7c25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fcf6aab56474b97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4fe28a355399ab7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e31cbadb0bc09ccf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c0e8e3cb77e4bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ad6e90697d558b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a738266e9976330",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Film Type.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Film Type"
+            }
+          },
+          {
+            "id": "1579857d3372497f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Film Type.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Film Type"
+            }
+          },
+          {
+            "id": "38fe53c9ec4da663",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a1bd270c9979d5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f17e5ec065399f84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Film Type.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Film Type"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fb60ed8c6535eb04",
+  "lastOpenFiles": [
+    "Templates/Photoshoot Session.md",
+    "Film Types/Kodak ColorPlus ISO 200.md",
+    "Film Photoshoots/01-20170106-ColorFilm.md",
+    "Film Labs/Colorfoto @ Alvalade.md",
+    "Templates/Film Type.md",
+    "Analog Photography.md",
+    "XX-PHOTOSHOOT.md",
+    "12-20241019-Kentmere100.md",
+    "Film Photoshoots",
+    "Film Labs",
+    "Film Types",
+    "Bases",
+    "Untitled 1.md",
+    "Untitled.md",
+    "README.md",
+    "Templates"
+  ]
+}
