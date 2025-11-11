@@ -1,0 +1,1 @@
+# obsidian-analog-photography-vault
