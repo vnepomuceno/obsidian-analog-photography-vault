@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder == "Film Photoshoots"
+    image: note.cover_url

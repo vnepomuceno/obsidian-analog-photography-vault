@@ -1,0 +1,17 @@
+properties:
+  note.film_iso:
+    displayName: Film ISO
+  note.film_color:
+    displayName: Film Type
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder == "Film Types"
+    order:
+      - file.name
+      - film_iso
+      - film_color
+    image: note.cover_url
+    imageAspectRatio: 1

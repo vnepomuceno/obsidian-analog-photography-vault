@@ -11,14 +11,13 @@
             "id": "fb60ed8c6535eb04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Templates/Film Type.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Film Photoshoots.base",
+                "viewName": "Cards"
               },
-              "icon": "lucide-file",
-              "title": "Film Type"
+              "icon": "lucide-layout-grid",
+              "title": "Film Photoshoots"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Film Type.md",
+                "file": "Bases/Film Photoshoots.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Film Type"
+              "title": "Backlinks for Film Photoshoots"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Film Type.md",
+                "file": "Bases/Film Photoshoots.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Film Type"
+              "title": "Outgoing links from Film Photoshoots"
             }
           },
           {
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Film Type.md",
+                "file": "Bases/Film Photoshoots.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Film Type"
+              "title": "Outline of Film Photoshoots"
             }
           }
         ]
@@ -186,11 +185,13 @@
   },
   "active": "fb60ed8c6535eb04",
   "lastOpenFiles": [
+    "Bases/Film Types.base",
+    "Bases/Film Photoshoots.base",
+    "Templates/Film Type.md",
     "Templates/Photoshoot Session.md",
     "Film Types/Kodak ColorPlus ISO 200.md",
     "Film Photoshoots/01-20170106-ColorFilm.md",
     "Film Labs/Colorfoto @ Alvalade.md",
-    "Templates/Film Type.md",
     "Analog Photography.md",
     "XX-PHOTOSHOOT.md",
     "12-20241019-Kentmere100.md",

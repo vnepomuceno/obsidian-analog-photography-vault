@@ -1,1 +1,6 @@
-{}
+{
+  "textFontFamily": "Amazon Ember",
+  "cssTheme": "Cupertino",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Helvetica"
+}
